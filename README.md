@@ -160,6 +160,11 @@ backup_dir/
     └── sublime3_list.txt
 ```
 
+### Usage Warning
+---
+Please be careful to avoid backing up files containing sensitive information to Github. Sensitive files pushed to 
+a public repository will be viewable to the general public. 
+
 ### Inspiration
 ---
 
